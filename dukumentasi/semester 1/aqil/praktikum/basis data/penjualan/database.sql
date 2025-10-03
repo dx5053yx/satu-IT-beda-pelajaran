@@ -1,0 +1,1 @@
+create database penjualan_Barang;

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "01Vqwnlf6YhywszIlbpj3IuxEsZHw68fVDDmlC4zVx5vsHAVTGBbhkRpv5qPrFz6nt+8IUvGudgY59QFjU17dg==",
+  "success": true,
+  "projectFilePath": "/home/akiru/Documents/satu-IT-beda-pelajaran/dukumentasi/semester 1/aqil/nyoba-nyoba/c#1/nyoba-nyoba.csproj",
+  "expectedPackageFiles": [
+    "/home/akiru/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.20/microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

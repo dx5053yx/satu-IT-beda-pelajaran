@@ -1,0 +1,5 @@
+/home/akiru/Documents/satu-IT-beda-pelajaran/dukumentasi/semester 1/aqil/nyoba-nyoba/c#2/obj/Debug/net8.0/c#2.GeneratedMSBuildEditorConfig.editorconfig
+/home/akiru/Documents/satu-IT-beda-pelajaran/dukumentasi/semester 1/aqil/nyoba-nyoba/c#2/obj/Debug/net8.0/c#2.AssemblyInfoInputs.cache
+/home/akiru/Documents/satu-IT-beda-pelajaran/dukumentasi/semester 1/aqil/nyoba-nyoba/c#2/obj/Debug/net8.0/c#2.AssemblyInfo.cs
+/home/akiru/Documents/satu-IT-beda-pelajaran/dukumentasi/semester 1/aqil/nyoba-nyoba/c#2/obj/Debug/net8.0/c#2.csproj.CoreCompileInputs.cache
+/home/akiru/Documents/satu-IT-beda-pelajaran/dukumentasi/semester 1/aqil/nyoba-nyoba/c#2/obj/Debug/net8.0/c#2.sourcelink.json

@@ -1,0 +1,15 @@
+/home/akiru/Documents/satu-IT-beda-pelajaran/dukumentasi/semester 1/aqil/nyoba-nyoba/c#1/bin/Debug/net8.0/nyoba-nyoba
+/home/akiru/Documents/satu-IT-beda-pelajaran/dukumentasi/semester 1/aqil/nyoba-nyoba/c#1/bin/Debug/net8.0/nyoba-nyoba.deps.json
+/home/akiru/Documents/satu-IT-beda-pelajaran/dukumentasi/semester 1/aqil/nyoba-nyoba/c#1/bin/Debug/net8.0/nyoba-nyoba.runtimeconfig.json
+/home/akiru/Documents/satu-IT-beda-pelajaran/dukumentasi/semester 1/aqil/nyoba-nyoba/c#1/bin/Debug/net8.0/nyoba-nyoba.dll
+/home/akiru/Documents/satu-IT-beda-pelajaran/dukumentasi/semester 1/aqil/nyoba-nyoba/c#1/bin/Debug/net8.0/nyoba-nyoba.pdb
+/home/akiru/Documents/satu-IT-beda-pelajaran/dukumentasi/semester 1/aqil/nyoba-nyoba/c#1/obj/Debug/net8.0/nyoba-nyoba.GeneratedMSBuildEditorConfig.editorconfig
+/home/akiru/Documents/satu-IT-beda-pelajaran/dukumentasi/semester 1/aqil/nyoba-nyoba/c#1/obj/Debug/net8.0/nyoba-nyoba.AssemblyInfoInputs.cache
+/home/akiru/Documents/satu-IT-beda-pelajaran/dukumentasi/semester 1/aqil/nyoba-nyoba/c#1/obj/Debug/net8.0/nyoba-nyoba.AssemblyInfo.cs
+/home/akiru/Documents/satu-IT-beda-pelajaran/dukumentasi/semester 1/aqil/nyoba-nyoba/c#1/obj/Debug/net8.0/nyoba-nyoba.csproj.CoreCompileInputs.cache
+/home/akiru/Documents/satu-IT-beda-pelajaran/dukumentasi/semester 1/aqil/nyoba-nyoba/c#1/obj/Debug/net8.0/nyoba-nyoba.sourcelink.json
+/home/akiru/Documents/satu-IT-beda-pelajaran/dukumentasi/semester 1/aqil/nyoba-nyoba/c#1/obj/Debug/net8.0/nyoba-nyoba.dll
+/home/akiru/Documents/satu-IT-beda-pelajaran/dukumentasi/semester 1/aqil/nyoba-nyoba/c#1/obj/Debug/net8.0/refint/nyoba-nyoba.dll
+/home/akiru/Documents/satu-IT-beda-pelajaran/dukumentasi/semester 1/aqil/nyoba-nyoba/c#1/obj/Debug/net8.0/nyoba-nyoba.pdb
+/home/akiru/Documents/satu-IT-beda-pelajaran/dukumentasi/semester 1/aqil/nyoba-nyoba/c#1/obj/Debug/net8.0/nyoba-nyoba.genruntimeconfig.cache
+/home/akiru/Documents/satu-IT-beda-pelajaran/dukumentasi/semester 1/aqil/nyoba-nyoba/c#1/obj/Debug/net8.0/ref/nyoba-nyoba.dll

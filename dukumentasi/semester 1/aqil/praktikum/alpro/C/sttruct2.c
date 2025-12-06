@@ -18,7 +18,6 @@ void hitung (struct waktu w){
     }
     printf("%d jam, %d menit, %d detik \n", w.jam, w.menit, w.detik );
 }
-
 int main(){
     struct waktu w;
     printf("masukan detik:");

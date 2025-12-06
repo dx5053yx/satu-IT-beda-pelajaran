@@ -1,0 +1,92 @@
+[
+  {
+    "_id": 20005,
+    "order_date": "2005-09-01T00:00:00.000Z",
+    "cust_id": "10002",
+    "items": [
+      {
+        "order_item": 1,
+        "prod_id": "ANV01",
+        "quantity": 10
+      },
+      {
+        "order_item": 2,
+        "prod_id": "ANV02",
+        "quantity": 3
+      },
+      {
+        "order_item": 3,
+        "prod_id": "TNT2",
+        "quantity": 5
+      },
+      {
+        "order_item": 4,
+        "prod_id": "FB",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "_id": 20006,
+    "order_date": "2005-09-28T00:00:00.000Z",
+    "cust_id": "10002",
+    "items": [
+      {
+        "order_item": 1,
+        "prod_id": "JP2000",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "_id": 20007,
+    "order_date": "2005-09-30T00:00:00.000Z",
+    "cust_id": "10004",
+    "items": [
+      {
+        "order_item": 1,
+        "prod_id": "TNT2",
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "_id": 20008,
+    "order_date": "2005-09-03T00:00:00.000Z",
+    "cust_id": "10005",
+    "items": [
+      {
+        "order_item": 1,
+        "prod_id": "FC",
+        "quantity": 50
+      }
+    ]
+  },
+  {
+    "_id": 20009,
+    "order_date": "2005-08-10T00:00:00.000Z",
+    "cust_id": "10003",
+    "items": [
+      {
+        "order_item": 1,
+        "prod_id": "FB",
+        "quantity": 1
+      },
+      {
+        "order_item": 2,
+        "prod_id": "OL1",
+        "quantity": 1
+      },
+      {
+        "order_item": 3,
+        "prod_id": "SLING",
+        "quantity": 1
+      },
+      {
+        "order_item": 4,
+        "prod_id": "ANV03",
+        "quantity": 1
+      }
+    ]
+  }
+]

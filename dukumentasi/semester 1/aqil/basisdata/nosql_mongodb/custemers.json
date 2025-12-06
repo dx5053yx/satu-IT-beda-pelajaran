@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "10002",
+    "name": "House House",
+    "address": "333 Fromage Lane",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43333",
+    "country": "USA",
+    "contact": "Jerry Mouse"
+  },
+
+  {
+    "_id": "10003",
+    "name": "Wascals",
+    "address": "1 Sunny Place",
+    "city": "Muncie",
+    "state": "IN",
+    "zip": "42222",
+    "country": "USA",
+    "contact": "Jim Jones",
+    "email": "rabbit@wascally.com"
+  },
+  {
+    "_id": "10004",
+    "name": "Yosemite Place",
+    "address": "829 Riverside Drive",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "88888",
+    "country": "USA",
+    "contact": "Y San",
+    "email": "san@yosemite.com"
+  },
+
+  {
+    "_id": "10005",
+    "name": "E Fudd",
+    "address": "4545 53rd Street",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "54545",
+    "country": "USA",
+    "contact": "E Fudd"
+  }
+]

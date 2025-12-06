@@ -1,0 +1,55 @@
+[
+  {
+    "_id": "1001",
+    "name": "Anvils R Us",
+    "address": "123 Main Street",
+    "city": "Southfield",
+    "state": "MI",
+    "zip": "48075",
+    "country": "USA"
+  },
+  {
+    "_id": "1002",
+    "name": "LT Supplies",
+    "address": "500 Park Street",
+    "city": "Any Town",
+    "state": "OH",
+    "zip": "48033",
+    "country": "USA"
+  },
+  {
+    "_id": "1003",
+    "name": "ACME",
+    "address": "555 High Street",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90046",
+    "country": "USA"
+  },
+  {
+    "_id": "1004",
+    "name": "Furball, Inc.",
+    "address": "1000 5th Avenue",
+    "city": "New York",
+    "state": "NY",
+    "zip": "1111",
+    "country": "USA"
+  },
+  {
+    "_id": "1005",
+    "name": "Jet Set",
+    "address": "42 Galaxy Road",
+    "city": "London",
+    "zip": "N16 6PS",
+    "country": "England"
+  },
+  {
+    "_id": "1006",
+    "name": "Jouets Et Ours",
+    "address": "1 Rue Amusement",
+    "city": "Paris",
+    "zip": "45678",
+    "country": "France"
+  }
+]
+

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DsNxIFRgWKVkcPXO1eEf06jp4sfdOrjRn2USo4aLo8kphdMPtep4ywQ3Y/BPmrvzTshKvlt4fXkFm3zaKw5lTA==",
+  "dgSpecHash": "uwD5eOuUzfbcQmGTRKArsUqMNMc9PYOvjSEA92jKcR2g/6I3jT8iaeBKv6FUPyOy0JLhJA5fGRIrNqIsDxkZcg==",
   "success": true,
   "projectFilePath": "/home/akiru/Documents/satu-IT-beda-pelajaran/dukumentasi/semester 1/aqil/nyoba-nyoba/c#2/c#2.csproj",
   "expectedPackageFiles": [
-    "/home/akiru/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.20/microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512"
+    "/home/akiru/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.22/microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512"
   ],
   "logs": []
 }
